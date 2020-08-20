@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋. I am Sai Nikhil Yandamuri, a Software Engineer. 
+
+🔭 I’m currently working on [To Do Application](https://github.com/SaiNikhilYandamuri/To-Do)
+
+🌱 I’m currently learning Web Development. 
+
 
 <!--
 **SaiNikhilYandamuri/SaiNikhilYandamuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### **Get in Touch**
+- **LinkedIn - 
 -->
