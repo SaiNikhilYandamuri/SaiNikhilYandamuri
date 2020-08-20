@@ -12,8 +12,18 @@
 <a href="https://www.instagram.com/helloitsnikhil/">
   <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<a href="https://medium.com/@nikhi.yandamuri">
+  <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/medium.svg" />
+</a>
+
+<a href="https://www.hackerrank.com/sainikhily">
+  <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerrank.svg" />
+</a>
+
 <br />
 <br />
+
 
 **Languages and Tools:**  
 
