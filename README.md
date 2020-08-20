@@ -4,6 +4,20 @@
 
 🌱 I’m currently learning Web Development. 
 
+<a href="https://www.linkedin.com/in/sai-nikhil-y-928184140/">
+  <img align="left" alt="Nikhil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/helloitsnikhil/">
+  <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+
+
+[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=sainikhilyandamuri&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **SaiNikhilYandamuri/SaiNikhilYandamuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +36,6 @@ Here are some ideas to get you started:
 
 ### **Get in Touch**
 - **LinkedIn - 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainikhilyandamuri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
