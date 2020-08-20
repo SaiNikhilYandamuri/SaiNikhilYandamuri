@@ -1,6 +1,6 @@
 ## Hi there 👋. I am Nikhil.
 
-I am Sai Nikhil Yandamuri from India, working as Software Engineer at Cerner Corporation.
+I am Sai Nikhil Yandamuri from India, working as Software Engineer at Cerner Corporation. Traveller:world_map:, Foodie:curry: & Avid Reader:open_book:.
 
 🔭 I’m currently working on [To Do Application](https://github.com/SaiNikhilYandamuri/To-Do)
 
