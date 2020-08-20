@@ -1,4 +1,6 @@
-## Hi there 👋. I am Sai Nikhil Yandamuri, a Software Engineer. 
+## Hi there 👋. I am Nikhil.
+
+I am Sai Nikhil Yandamuri from India, working as Software Engineer at Cerner Corporation.
 
 🔭 I’m currently working on [To Do Application](https://github.com/SaiNikhilYandamuri/To-Do)
 
