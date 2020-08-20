@@ -4,6 +4,7 @@
 
 🌱 I’m currently learning Node.js, React & GraphQL . 
 
+## Find me around the web :globe_with_meridians:
 <a href="https://www.linkedin.com/in/sai-nikhil-y-928184140/">
   <img align="left" alt="Nikhil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
