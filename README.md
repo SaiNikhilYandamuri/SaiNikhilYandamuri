@@ -8,7 +8,7 @@ I am Sai Nikhil Yandamuri from India, working as Software Engineer at Cerner Cor
 
 ⚡ Fun facts: I am a Machester United :imp:
 
-:books: I also read books. Presently reading [Think like a Monk](https://www.amazon.in/Think-Like-Monk-Jay-Shetty/dp/0008386595)
+:books: Presently reading [Think like a Monk](https://www.amazon.in/Think-Like-Monk-Jay-Shetty/dp/0008386595)
               
 
 ## Find me around the web :globe_with_meridians:
