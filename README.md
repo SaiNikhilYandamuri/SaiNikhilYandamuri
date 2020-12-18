@@ -7,7 +7,8 @@ I am Sai Nikhil Yandamuri from India, working as Software Engineer at Cerner Cor
 🌱 I’m currently learning Node.js, React & GraphQL . 
 
 ⚡ Fun facts: I am a Machester United :imp:
-              I also read books. Presently reading [Think like a Monk](https://www.amazon.in/Think-Like-Monk-Jay-Shetty/dp/0008386595)
+
+:books: I also read books. Presently reading [Think like a Monk](https://www.amazon.in/Think-Like-Monk-Jay-Shetty/dp/0008386595)
               
 
 ## Find me around the web :globe_with_meridians:
