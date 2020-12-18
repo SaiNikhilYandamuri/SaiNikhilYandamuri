@@ -6,7 +6,7 @@ I am Sai Nikhil Yandamuri from India, working as Software Engineer at Cerner Cor
 
 🌱 I’m currently learning Node.js, React & GraphQL . 
 
-⚡ Fun fact: I am a Machester United :imp:
+⚡ Fun fact: I am a Machester United :imp: & a book reader. 
 
 ## Find me around the web :globe_with_meridians:
 <a href="https://www.linkedin.com/in/sai-nikhil-y-928184140/">
