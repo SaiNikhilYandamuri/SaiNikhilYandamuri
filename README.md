@@ -8,7 +8,7 @@ I am Sai Nikhil Yandamuri from India, working as Software Engineer at Cerner Cor
 
 ⚡ Fun facts: I am a Machester United :imp:
 
-:books: Presently reading [Ikigai: The Japanese secret to a long and happy life](https://www.amazon.in/Ikigai-H%C3%A9ctor-Garc%C3%ADa/dp/178633089X)
+:books: Presently reading [Wings of Fire: Autobiography of Abdul Kalam](https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461)
               
 
 ## Find me around the web :globe_with_meridians:
