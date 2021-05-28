@@ -14,39 +14,49 @@ I am Sai Nikhil Yandamuri from India, studying at San Jose State University as S
 
 ## Find me around the web :globe_with_meridians:
 <a href="https://www.linkedin.com/in/sai-nikhil-y-928184140/">
-  <img align="left" alt="Nikhil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Nikhil's LinkdeIN" width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
 </a>
 
 <a href="https://www.instagram.com/helloitsnikhil/">
-  <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Nikhil's Instagram" width="40px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />
 </a>
 
 <a href="https://medium.com/@nikhi.yandamuri">
-  <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/medium.svg" />
+  <img align="left" alt="Nikhil's Medium" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-256.png" />
 </a>
 
 <a href="https://www.hackerrank.com/sainikhily">
-  <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerrank.svg" />
+  <img align="left" alt="Nikhil's Hackerrank" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-256.png" />
 </a>
 
 <br />
 <br />
 
+## Skill Set :muscle:
 
+These are some of the major technologies that I use or have worked on in the past:
 
-## Language & Tools:  
+**Programming Languages**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftsqlserver.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/chef.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/git.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<img title="Java" alt="Java" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.svg"> <img title="Javascript" alt="Javascript" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"> <img title="html5" alt="HTML5" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-512.png">
 
+**Libraries & Frameworks**
 
+<img title="nodejs" alt="NodeJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png"> <img title="reactjs" alt="ReactJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> <img title="graphql" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 
+**Cloud**:
 
-[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=sainikhilyandamuri&show_icons=true&theme=graywhite&hide=issues,contribs&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
 
+**Databases**
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+
+## My Stats:
+
+[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=sainikhilyandamuri&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Top Languages:
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
