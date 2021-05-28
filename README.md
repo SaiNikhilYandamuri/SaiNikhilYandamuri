@@ -2,7 +2,7 @@
 
 I am Sai Nikhil Yandamuri from India, studying at San Jose State University as Student for Masters in Computer Software Engineering. I am a Traveller:world_map:, Foodie:curry: , Avid Reader:open_book: & Coffee Lover:coffee:.
 
-🔭 I’m currently working on my Academic Projects.
+🔭 I’m currently working on my improving my portfolio website.
 
 🌱 I’m currently learning Node.js, React & GraphQL . 
 
@@ -42,7 +42,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries & Frameworks**
 
-<img title="nodejs" alt="NodeJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png"> <img title="reactjs" alt="ReactJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> <img title="graphql" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+<img title="nodejs" alt="NodeJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png"> <img title="reactjs" alt="ReactJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> <img title="graphql" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> <img title="Chef" alt="Chef" width="40px" src="https://chef-software.gallerycdn.vsassets.io/extensions/chef-software/vsts-chef-tasks/1.6.29/1606590211412/Microsoft.VisualStudio.Services.Icons.Default"> <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 
 **Cloud**:
 
