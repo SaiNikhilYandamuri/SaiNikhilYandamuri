@@ -29,6 +29,10 @@ I am Sai Nikhil Yandamuri from India, studying at San Jose State University as S
   <img align="left" alt="Nikhil's Hackerrank" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-256.png" />
 </a>
 
+<a href="https://leetcode.com/sainikhily/">
+  <img align="left" alt="Nikhil's Leetcode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+</a>
+
 <br />
 <br />
 
@@ -42,7 +46,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries & Frameworks**
 
-<img title="nodejs" alt="NodeJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png"> <img title="reactjs" alt="ReactJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> <img title="graphql" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> <img title="Chef" alt="Chef" width="40px" src="https://chef-software.gallerycdn.vsassets.io/extensions/chef-software/vsts-chef-tasks/1.6.29/1606590211412/Microsoft.VisualStudio.Services.Icons.Default"> <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+<img title="nodejs" alt="NodeJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png"> <img title="reactjs" alt="ReactJS" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> <img title="graphql" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> <img title="Chef" alt="Chef" width="40px" src="https://chef-software.gallerycdn.vsassets.io/extensions/chef-software/vsts-chef-tasks/1.6.29/1606590211412/Microsoft.VisualStudio.Services.Icons.Default"> <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> <img title="Kafka" alt="Kafka" width="40px" src="https://www.zdnet.com/a/hub/i/r/2018/07/13/93218cd5-cfd9-4b10-bd28-1cc71a7275bc/resize/370xauto/996ca4ee0ff595281053298f3fe74ccc/kafka-logo.png">
 
 **Cloud**:
 
@@ -50,7 +54,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
 
 ## My Stats:
 
