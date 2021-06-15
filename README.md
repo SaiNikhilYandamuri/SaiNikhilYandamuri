@@ -8,7 +8,7 @@ I am Sai Nikhil Yandamuri from India, studying at San Jose State University as S
 
 ⚡ Fun facts: I am a Machester United :imp:
 
-:books: Presently reading [Wings of Fire: Autobiography of Abdul Kalam](https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461)
+:books: Presently reading [Turning Points: A Journey Through Challenges](https://www.amazon.com/Turning-Points-Journey-Through-Challanges/dp/9350293471)
               
 👨‍💻 Visit me at my [portfolio website](https://sainikhilyandamuri.github.io/)
 
