@@ -2,9 +2,11 @@
 
 I am Sai Nikhil Yandamuri from India, studying at San Jose State University as Student for Masters in Computer Software Engineering. I am a Traveller:world_map:, Foodie:curry: , Avid Reader:open_book: & Coffee Lover:coffee:.
 
-🔭 I’m currently working on my improving my portfolio website.
+🔭 I’m currently working on improving my competitive coding.
 
-🌱 I’m currently learning Node.js, React & GraphQL . 
+🌱 I’m currently learning Data Structures & Algorithms.
+
+💼 I'm looking for software internship opportunities starting Spring 2022.
 
 ⚡ Fun facts: I am a Machester United :imp:
 
