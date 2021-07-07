@@ -15,7 +15,7 @@ I am Sai Nikhil Yandamuri from India, studying at San Jose State University as S
 👨‍💻 Visit me at my [portfolio website](https://sainikhilyandamuri.github.io/)
 
 ## Find me around the web :globe_with_meridians:
-<a href="https://www.linkedin.com/in/sai-nikhil-y-928184140/">
+<a href="https://www.linkedin.com/in/sai-nikhil-y/">
   <img align="left" alt="Nikhil's LinkdeIN" width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
 </a>
 
