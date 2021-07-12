@@ -70,7 +70,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!--START_SECTION:waka-->
 ```text
-HTML   8 mins          █████████████████████████   100.00 % 
+HTML   10 mins         ███████████████▓░░░░░░░░░   63.33 % 
+CSS    5 mins          █████████▒░░░░░░░░░░░░░░░   36.67 % 
 ```
 <!--END_SECTION:waka-->
 
