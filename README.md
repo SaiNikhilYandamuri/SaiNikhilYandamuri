@@ -70,8 +70,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!--START_SECTION:waka-->
 ```text
-Java         11 mins         ██████████████████████▓░░   90.06 % 
-Python       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Java         30 mins         ██████████████████████▒░░   89.79 % 
+Git Config   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 <!--END_SECTION:waka-->
 
