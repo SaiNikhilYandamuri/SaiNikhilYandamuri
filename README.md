@@ -11,7 +11,9 @@ I am Sai Nikhil Yandamuri from India, studying at San Jose State University as S
 ⚡ Fun facts: I am a Machester United :imp:
 
 :books: Presently reading [Turning Points: A Journey Through Challenges](https://www.amazon.com/Turning-Points-Journey-Through-Challanges/dp/9350293471)
-              
+
+:paperclip: Download [my resume](https://drive.google.com/file/d/1rUQpjcs-rqKKX-NK93tvTbW-8VV3vUZD/view?usp=sharing)
+
 👨‍💻 Visit me at my [portfolio website](https://sainikhilyandamuri.github.io/)
 
 ## Find me around the web :globe_with_meridians:
