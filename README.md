@@ -71,6 +71,11 @@ These are some of the major technologies that I use or have worked on in the pas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainikhilyandamuri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yandamurisainikhil)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
 <!--START_SECTION:waka-->
 ```text
 Java              8 hrs 38 mins   ██████████████████████▓░░   90.54 % 
