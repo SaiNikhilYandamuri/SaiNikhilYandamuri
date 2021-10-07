@@ -1,4 +1,4 @@
-## Hi there 👋. I am [Nikhil](https://sainikhilyandamuri.github.io/).
+## Hi there 👋. I am [Nikhil](https://sainikhilyandamuri.com).
 
 I am Sai Nikhil Yandamuri from India, studying at San Jose State University as Student for Masters in Computer Software Engineering. I am a Traveller:world_map:, Foodie:curry: , Avid Reader:open_book: & Coffee Lover:coffee:.
 
