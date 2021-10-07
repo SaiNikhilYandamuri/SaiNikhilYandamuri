@@ -21,7 +21,7 @@ I am Sai Nikhil Yandamuri from India, studying at San Jose State University as S
   <img align="left" alt="Nikhil's LinkdeIN" width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
 </a>
 
-<a href="https://www.instagram.com/helloitsnikhil/">
+<a href="https://www.instagram.com/boberdocasslo/">
   <img align="left" alt="Nikhil's Instagram" width="40px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />
 </a>
 
