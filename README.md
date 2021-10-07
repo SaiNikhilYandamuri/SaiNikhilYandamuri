@@ -78,11 +78,11 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!--START_SECTION:waka-->
 ```text
-Java              10 hrs 33 mins  ██████████████████████░░░   88.54 % 
-Protocol Buffer   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Other             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-XML               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Markdown          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Java              10 hrs 32 mins  ████████████████████▒░░░░   81.03 % 
+Protocol Buffer   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+HTML              42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+CSS               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Other             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
 
