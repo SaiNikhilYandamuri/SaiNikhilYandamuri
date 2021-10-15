@@ -78,7 +78,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!--START_SECTION:waka-->
 ```text
-Python   32 mins         █████████████████████████   99.93 % 
+Python   24 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
