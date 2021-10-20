@@ -78,7 +78,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java              1 hr 40 mins    ████████████████████████▓   98.93 % 
 ```
 <!--END_SECTION:waka-->
 
