@@ -78,10 +78,10 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript        1 hr 30 mins    ███████████████████████▒░   93.72 % 
-Java              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-JSON              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-XML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript        1 hr 19 mins    ███████████████████████▒░   92.90 % 
+Java              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JSON              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+XML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 <!--END_SECTION:waka-->
 
