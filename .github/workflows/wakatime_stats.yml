@@ -14,3 +14,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_SECRET }}
+          SHOW_LANGUAGE: True
+          SHOW_OS: True
+          SHOW_LANGUAGE_PER_REPO: True
