@@ -82,7 +82,5 @@ These are some of the major technologies that I use or have worked on in the pas
 JavaScript        1 hr 12 mins    █████████████████████▒░░░   85.13 % 
 Java              12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 ```
-```text
-```
 <!--END_SECTION:waka-->
 
