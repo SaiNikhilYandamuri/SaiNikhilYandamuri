@@ -14,7 +14,7 @@ I am Sai Nikhil Yandamuri from India, studying at San Jose State University as S
 
 :paperclip: Download [my resume](https://drive.google.com/file/d/1SB_zAhSorrUo7qiQjwlDvd8KKq3LRq8g/view?usp=sharing)
 
-👨‍💻 Visit me at my [portfolio website](https://sainikhilyandamuri.github.io/)
+👨‍💻 Visit me at my [portfolio website](https://sainikhilyandamuri.com)
 
 ## Find me around the web :globe_with_meridians:
 <a href="https://www.linkedin.com/in/sai-nikhil-y/">
