@@ -74,8 +74,9 @@ These are some of the major technologies that I use or have worked on in the pas
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sainikhilyandamuri&v=2)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-
+<!--
+<img align="left" alt="Nikhil's Wakatime" height="400px" src="https://wakatime.com/share/@sainikhilyandamuri/495a67f1-1caf-4a8f-96bd-2a8f1dac2619.svg" />
+-->
 
 <!--START_SECTION:waka-->
 ```text
