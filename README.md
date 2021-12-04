@@ -46,7 +46,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img title="Java" alt="Java" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.svg"> <img title="Javascript" alt="Javascript" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"> <img title="html5" alt="HTML5" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-512.png">
+<img title="Java" alt="Java" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-1024.png"> <img title="Javascript" alt="Javascript" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"> <img title="html5" alt="HTML5" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-512.png">
 
 **Libraries & Frameworks**
 
