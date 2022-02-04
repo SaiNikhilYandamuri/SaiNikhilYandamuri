@@ -6,12 +6,14 @@ I am Sai Nikhil Yandamuri from India, studying at San Jose State University as S
 
 🌱 I’m currently learning Data Structures & Algorithms.
 
+<!--
 💼 I'm looking for software internship opportunities starting Spring 2022.
-
+-->
 ⚡ Fun facts: I am a Machester United :imp:
 
+<!--
 :books: Presently reading [Turning Points: A Journey Through Challenges](https://www.amazon.com/Turning-Points-Journey-Through-Challanges/dp/9350293471)
-
+-->
 :paperclip: Download [my resume](https://drive.google.com/file/d/1SB_zAhSorrUo7qiQjwlDvd8KKq3LRq8g/view?usp=sharing)
 
 👨‍💻 Visit me at my [portfolio website](https://sainikhilyandamuri.com)
