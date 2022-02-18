@@ -65,7 +65,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## My Stats:
 
-[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=sainikhilyandamuri&show_icons=true&theme=vision-friendly-dark&hide=issues&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=sainikhilyandamuri&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Top Languages:
 
