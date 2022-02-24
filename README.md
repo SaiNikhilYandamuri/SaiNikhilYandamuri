@@ -89,7 +89,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java             10 mins         █████████████████████░░░░   83.35 % 
+XML              2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 ```
 <!--END_SECTION:waka-->
 
