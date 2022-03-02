@@ -90,10 +90,9 @@ These are some of the major technologies that I use or have worked on in the pas
 <!--START_SECTION:waka-->
 
 ```text
-HTML             13 mins         █████████████░░░░░░░░░░░░   51.50 %
-Java             10 mins         ██████████░░░░░░░░░░░░░░░   40.43 %
-XML              2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+HTML         24 mins         ██████████████▒░░░░░░░░░░   57.80 %
+JavaScript   15 mins         █████████▒░░░░░░░░░░░░░░░   36.67 %
+CSS          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
