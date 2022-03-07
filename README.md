@@ -1,4 +1,5 @@
 ## Hi there 👋. I am [Nikhil](https://sainikhilyandamuri.com).
+[![wakatime](https://wakatime.com/badge/user/063769a5-605a-46f7-a5d9-e669d44aa585.svg)](https://wakatime.com/@063769a5-605a-46f7-a5d9-e669d44aa585)
 
 I am Sai Nikhil Yandamuri from India, studying at San Jose State University as Student for Masters in Computer Software Engineering. I am a Traveller:world_map:, Foodie:curry: , Avid Reader:open_book: & Coffee Lover:coffee:.
 
@@ -73,6 +74,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainikhilyandamuri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Wakatime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sainikhilyandamuri&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sainikhilyandamuri&v=2)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -80,15 +83,4 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="left" alt="Nikhil's Wakatime" height="400px" src="https://wakatime.com/share/@sainikhilyandamuri/495a67f1-1caf-4a8f-96bd-2a8f1dac2619.svg" />
 -->
 
-## Wakatime Stats
-
-<!--START_SECTION:waka-->
-
-```text
-HTML         1 hr 19 mins    █████████████████▒░░░░░░░   69.12 %
-JavaScript   32 mins         ███████▒░░░░░░░░░░░░░░░░░   28.80 %
-CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-```
-
-<!--END_SECTION:waka-->
 
