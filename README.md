@@ -81,11 +81,6 @@ These are some of the major technologies that I use or have worked on in the pas
 -->
 
 ## Wakatime Stats
-<!--
-<img title="OS" alt="OS" width="400px" src="https://wakatime.com/share/@sainikhilyandamuri/6694725b-0a5c-4c80-ae0e-0ff2e6af8950.svg">
-<img title="OS" alt="OS" width="400px" src="https://wakatime.com/share/@sainikhilyandamuri/ce6e9b73-b103-4e27-a54a-52d7bcec2089.svg">
-<img title="OS" alt="OS" width="400px" src="https://wakatime.com/share/@sainikhilyandamuri/396991db-b387-47de-a741-69e4e25b4f0a.svg">
--->
 
 <!--START_SECTION:waka-->
 
