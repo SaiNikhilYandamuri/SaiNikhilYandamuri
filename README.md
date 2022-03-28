@@ -76,6 +76,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Wakatime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sainikhilyandamuri&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainikhilyandamuri" alt="sainikhilyandamuri" /></p>
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sainikhilyandamuri&v=2)](https://github.com/anuraghazra/github-readme-stats)
 -->
