@@ -1,7 +1,7 @@
 ## Hi there 👋. I am [Nikhil](https://sainikhilyandamuri.com).
 [![wakatime](https://wakatime.com/badge/user/063769a5-605a-46f7-a5d9-e669d44aa585.svg)](https://wakatime.com/@063769a5-605a-46f7-a5d9-e669d44aa585)
 
-I am Sai Nikhil Yandamuri from India, studying at San Jose State University as Student for Masters in Computer Software Engineering. I am a Traveller:world_map:, Foodie:curry: , Avid Reader:open_book: & Coffee Lover:coffee:.
+I am Sai Nikhil Yandamuri from India, studying at San Jose State University as Student for Masters in Computer Software Engineering. I will be joining Amazon as a Software Development Engineer Intern for the Summer 2022. I am a Traveller:world_map:, Foodie:curry: , Avid Reader:open_book: & Coffee Lover:coffee:.
 
 🔭 I’m currently working on improving my competitive coding.
 
@@ -75,10 +75,12 @@ These are some of the major technologies that I use or have worked on in the pas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainikhilyandamuri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Wakatime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sainikhilyandamuri&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainikhilyandamuri" alt="sainikhilyandamuri" /></p>
 <!--
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sainikhilyandamuri&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sainikhilyandamuri&v=2)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
